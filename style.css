@@ -1,0 +1,17 @@
+.title {
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-size: 50px;
+  padding: 20px 10px;
+  position: sticky;
+  top: 0;
+}
+.center_box {
+  display: flex;
+  text-align: center;
+  height: 500px;
+  margin: 100px;
+  justify-content: center;
+  flex-direction: column;
+}
